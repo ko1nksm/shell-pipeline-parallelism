@@ -1,2 +1,3 @@
-# basic-knowledge-of-shell-parallel-processing
-Basic knowledge of shell parallel processing
+# shell-pipeline-parallelism
+
+シェルスクリプトで「パイプライン並列化」をガチでやってみた 〜 パイプ＋並列処理でCPUの最大効率を引き出す知識
